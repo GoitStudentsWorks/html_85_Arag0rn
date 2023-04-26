@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/The-Watch-Spot/",
+    "build": "vite build --base=/html_85_Arag0rn/",
     "preview": "vite preview"
   },
   "devDependencies": {
